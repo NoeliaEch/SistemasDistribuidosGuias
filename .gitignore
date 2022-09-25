@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 # dependencies
 /node_modules
 
 # misc
 npm-debug.log*
+=======
+# dependencies
+/node_modules
+
+# misc
+npm-debug.log*
+>>>>>>> 9717a1c52aaf490403910d6202332c3b33fb0386
